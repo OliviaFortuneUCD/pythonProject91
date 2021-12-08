@@ -10,6 +10,3 @@ print(df1.columns)
 print(df1.info())
 
 print(df1.info())
-
-print(df1.info())
-
